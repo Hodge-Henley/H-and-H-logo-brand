@@ -1,6 +1,6 @@
 # H-and-H-logo-brand
 
-While our logo is clean and modern, there is a great easter egg. If you look Hodge is outside of the box, Henley is inside. This speaks to our co-founder's way of thinking and ability to think outside the box for our valued clients. 
+While our logo is clean and modern, there is a great easter egg. Hodge is outside of the box, Henley is inside. This speaks to our co-founder's way of thinking and ability to think outside the box for our valued clients. 
 
 ![condensed](https://github.com/Hodge-Henley/H-and-H-logo-brand/blob/main/consdensed.png)
 
